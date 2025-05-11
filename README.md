@@ -11,9 +11,6 @@ Welcome to the **Paradise Resorts Web Application**, a static web app designed t
 - [Project Structure](#project-structure)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [Future Improvements](#future-improvements)
-- [License](#license)
 - [Contact](#contact)
 
 ## Project Description
@@ -52,17 +49,7 @@ paradise-resorts/
 │   │   │   ├── home/
 │   │   │   │   ├── page.js          # Home page component
 │   │   │   │   ├── wahome.module.css # Styles for home page
-│   ├── public/
-│   │   ├── logo.jpg                 # Resort logo
-│   │   ├── img2.jpg                 # Introduction image
-│   │   ├── bv.jpg                   # Beach Villas image
-│   │   ├── wv.jpg                   # Water Villas image
-│   │   ├── fso.jpeg                 # Family Suites image
-│   │   ├── gvo.jpeg                 # Garden Villas image
-│   │   ├── para.webp                # Boat parachuting image
-│   │   ├── swim.jpg                 # Swimming image
-│   │   ├── boat.jpg                 # Boating image
-│   │   ├── surf.webp                # Surfing image
+│   ├── public
 ├── package.json                     # Project dependencies and scripts
 ├── README.md                        # This file
 ```
@@ -94,32 +81,10 @@ To run the project locally, follow these steps:
 - **Explore Content**: Browse room types with pricing and ratings, view resort activities, and learn about special events like Pro DJ Night and cultural showcases.
 - **Contact**: Use the footer links to reach out via email or social media.
 
-## Contributing
-Contributions are welcome! To contribute:
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/your-feature`).
-3. Make your changes and commit (`git commit -m "Add your feature"`).
-4. Push to the branch (`git push origin feature/your-feature`).
-5. Open a pull request with a detailed description of your changes.
-
-Please ensure your code follows the project's coding style and includes relevant tests.
-
-## Future Improvements
-- Add a booking system to allow users to reserve rooms and activities directly.
-- Implement user authentication for personalized experiences.
-- Integrate a photo gallery with a lightbox feature for better visual exploration.
-- Add multi-language support for international users.
-- Enhance accessibility (e.g., ARIA labels, keyboard navigation).
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Contact
 Designed and developed by Rishik Reddy. Reach out for questions or feedback:
 - **Email**: [malerishikreddy@gmail.com](mailto:malerishikreddy@gmail.com)
 - **GitHub**: [MRishikReddy](https://github.com/MRishikReddy)
 - **LinkedIn**: [rishikreddym](https://www.linkedin.com/in/rishikreddym/)
-- **Instagram**: [rishikreddy7](https://www.instagram.com/rishikreddy7)
-- **Facebook**: [Profile](https://www.facebook.com/share/1A6jkumtxw/)
 
 Thank you for exploring the Paradise Resorts Web Application! Book your slice of paradise today.
