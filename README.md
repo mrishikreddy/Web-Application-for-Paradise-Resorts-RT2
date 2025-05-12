@@ -2,7 +2,7 @@
 
 Welcome to the **Paradise Resorts Web Application**, a static web app designed to showcase the luxurious offerings of Paradise Resort, located on Panama Island in the Maldives. This project provides a fully responsive, visually appealing, and user-friendly interface to explore room types, resort activities, special events, and customer support, all inspired by the serene beauty of the Maldives.
 
-[Live Demo (Click Here)](https://mrishikreddy.github.io/rishik.tech.projects/webApp)
+[Visit Live Project (Click Here)](https://mrishikreddy.github.io/rishik.tech.projects/webApp)
 
 ## Table of Contents
 - [Project Description](#project-description)
