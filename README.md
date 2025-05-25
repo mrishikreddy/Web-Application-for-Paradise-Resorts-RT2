@@ -14,7 +14,7 @@ Welcome to the **Paradise Resorts Web Application**, a static web app designed t
 - [Contact](#contact)
 
 ## Project Description
-The Paradise Resorts Web Application is built to provide users with a seamless browsing experience to explore the resort's offerings. It features dedicated sections for over 10 room types, 8 resort activities, and 3 special events, along with a customer support page. The application is designed with a Maldives-inspired theme, optimized for performance, and fully responsive across devices.
+The Paradise Resorts Web Application is built to provide users with a seamless browsing experience to explore the resort's offerings. It features dedicated sections for over 4 room types, 2 resort activities, and 1 special event. The application is designed with a Maldives-inspired theme, optimized for performance, and fully responsive across devices.
 
 The app includes a login page with a beach wave background video and a home page with intuitive navigation, showcasing the resort's luxurious accommodations, activities, and events.
 
