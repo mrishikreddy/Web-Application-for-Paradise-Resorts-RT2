@@ -21,9 +21,9 @@ The app includes a login page with a beach wave background video and a home page
 ## Features
 - **Responsive Design**: Fully responsive UI optimized for desktops, tablets, and mobile devices.
 - **Comprehensive Content**: Dedicated sections for:
-  - Over 10 room types (e.g., Beach Villas, Water Villas, Family Suites, Garden Villas).
-  - 8 resort activities (e.g., boat parachuting, swimming, boating, surfing).
-  - 3 special events (e.g., Pro DJ Night, cultural showcases, sunset cruises).
+  - Over 4 room types (e.g., Beach Villas, Water Villas, Family Suites, Garden Villas).
+  - 2 resort activities (e.g., boat parachuting, swimming, boating, surfing).
+  - 1 special events (e.g., Pro DJ Night).
   - Customer support page with contact information.
 - **Maldives-Inspired Theme**: Visually appealing design with a beach wave background video and high-quality imagery.
 - **Optimized Performance**: Streamlined navigation and optimized page load times for a smooth user experience.
