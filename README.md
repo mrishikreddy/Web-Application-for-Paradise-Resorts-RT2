@@ -59,7 +59,7 @@ To run the project locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/MRishikReddy/paradise-resorts.git
+   git clone https://github.com/mrishikreddy/SRU-Coding-Club-Website-RT1.git
    cd paradise-resorts
    ```
 
